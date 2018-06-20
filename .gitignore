@@ -1,4 +1,13 @@
-packages/**
-**/obj/**
 **/bin/**
-
+**/obj/**
+src/.vs/**
+src/.idea/**
+*.csproj.user
+*.user
+deploy
+node_modules/**
+appsettings.json
+**NCrunch**
+config.local.js
+packages
+.vs
